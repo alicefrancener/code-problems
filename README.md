@@ -1,10 +1,12 @@
 # Problem Solving
 
-Collection of solution to code problems.
+Soluções para code problems. O nome do arquivo indica qual o problema.
 
 ### [URI](uri/)
 
   - [Iniciante](uri/iniciante/)
+  - [Ad-Hoc](uri/ad-hoc)
   - [Strings](uri/strings/)
+  - [Matemática](uri/matematica)
 
-<small>:link: [URI Online Judge](https://www.urionlinejudge.com.br/)</small>
+[URI Online Judge](https://www.urionlinejudge.com.br/)
