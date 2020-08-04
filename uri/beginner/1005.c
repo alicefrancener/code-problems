@@ -1,3 +1,9 @@
+/*
+	author: Alice Francener
+	problem: Average 1
+	url: https://www.urionlinejudge.com.br/judge/en/problems/view/1005
+*/
+
 #include<stdio.h>
 
 int main(){
