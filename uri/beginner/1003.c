@@ -1,3 +1,9 @@
+/*
+	author: Alice Francener
+	problem: Simple Sum
+	url: https://www.urionlinejudge.com.br/judge/en/problems/view/1003
+*/
+
 #include<stdio.h>
 
 int main(){
