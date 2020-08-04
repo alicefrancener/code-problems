@@ -1,3 +1,9 @@
+/*
+	author: Alice Francener
+	problem: Simple Product
+	url: https://www.urionlinejudge.com.br/judge/en/problems/view/1004
+*/
+
 #include<stdio.h>
 
 int main(){
