@@ -1,3 +1,8 @@
+"""
+  problem: Collectable Cards
+  url: https://www.urionlinejudge.com.br/judge/en/problems/view/1028
+"""
+
 n_casos = int(input())
 mdc_result = []
 
