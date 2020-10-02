@@ -1,3 +1,8 @@
+"""
+  problem: Travel to Mars in Primo Speed
+  https://www.urionlinejudge.com.br/judge/en/problems/view/2180
+"""
+
 def isPrime(n):
     if ((n < 2) or ((n > 2) and (n % 2 == 0))):
         return False
