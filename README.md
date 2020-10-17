@@ -1,13 +1,7 @@
-# Problem Solving
+# Code Problems
 
-Soluções para code problems. O nome do arquivo indica qual é o problema.
+Repositório com algumas soluções para *code problems*.
 
-### [URI](uri/)
-
-  - [Iniciante](uri/iniciante/)
-  - [Ad-Hoc](uri/ad-hoc)
-  - [Strings](uri/strings/)
-  - [Estruturas e bibliotecas](uri/estruturas-e-bibliotecas)
-  - [Matemática](uri/matematica)
-
-[URI Online Judge](https://www.urionlinejudge.com.br/)
+Meu perfil nas plataformas:
+- LeetCode: [profile](https://leetcode.com/alicefrancener/)
+- URI Online Judge: [profile](https://www.urionlinejudge.com.br/judge/en/profile/164371)
