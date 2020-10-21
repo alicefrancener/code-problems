@@ -6,4 +6,4 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 
 | # | Problem | Solution | Level |
 | - | ----- | -------- | ---------- |
-| 1001 | [Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001) | [C](/begginer/1001.c), [Python](/begginer/1001.py) | 4 |
+| 1001 | [Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001) | [C](begginer/1001.c), [Python](/begginer/1001.py) | 4 |
