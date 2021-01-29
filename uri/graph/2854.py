@@ -1,3 +1,9 @@
+"""
+  author: Alice Francener
+  problem: 2854 - Family Tree
+  description: https://www.urionlinejudge.com.br/judge/en/problems/view/2854
+"""
+
 # -*- coding: utf-8 -*-
 
 '''Problema: quantas familias diferentes existem'''
