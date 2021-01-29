@@ -1,3 +1,9 @@
+"""
+  author: Alice Francener
+  problem: 1082 - Connected Components
+  description: https://www.urionlinejudge.com.br/judge/en/problems/view/1082
+"""
+
 '''Problema: quantos grafos conexos existem'''
 
 class DisjointSets:
