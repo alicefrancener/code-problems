@@ -1,6 +1,13 @@
+"""
+  author: Alice Francener
+  problem: 2959 - StopAll
+  description: https://www.urionlinejudge.com.br/judge/en/problems/view/2959
+  obs: Union find (baseado em https://medium.com/100-days-of-algorithms/day-41-union-find-d0027148376d)
+"""
+
 """ Problema: A partir de um bairro eh possivel chegar a outro? """
 
-# Union find (baseado em https://medium.com/100-days-of-algorithms/day-41-union-find-d0027148376d)
+# Union find
 def find(data, i):
     if i != data[i]:
         data[i] = find(data, data[i])
