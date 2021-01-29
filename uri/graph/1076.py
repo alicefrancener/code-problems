@@ -1,3 +1,9 @@
+"""
+  author: Alice Francener
+  problem: 1076 - Design Labirints
+  description: https://www.urionlinejudge.com.br/judge/en/problems/view/1076
+"""
+
 def dfs(visited, graph, node):
     if node not in visited:
         visited.add(node)
