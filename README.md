@@ -69,15 +69,31 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 
 ### Mathematics
 
-| #    | Problem description | Solution                          | Level |
-| ---- | ------------------- | --------------------------------- | ----- |
-| 1537 | [Bank Line]         | [C++](uri/mathematics/1537.cpp)   | 4     |
-| 2232 | [Pascal's Triangle] | [Python](uri/mathematics/2232.py) | 1     |
-| 2291 | [Divine Numbers]    | [C++](uri/mathematics/2291.cpp)   | 8     |
+| #    | Problem description             | Solution                          | Level |
+| ---- | ------------------------------- | --------------------------------- | ----- |
+| 1028 | [Collectable Cards]             | [Python](uri/mathematics/1028.py) | 3     |
+| 1221 | [Fast Prime Number]             | [C++](uri/mathematics/1221.cpp)   | 6     |
+| 1537 | [Bank Line]                     | [C++](uri/mathematics/1537.cpp)   | 4     |
+| 1582 | [The Pythagorean Theorem]       | [Python](uri/mathematics/1582.py) | 5     |
+| 2180 | [Travel to Mars in Primo Speed] | [Python](uri/mathematics/2180.py) | 2     |
+| 2232 | [Pascal's Triangle]             | [Python](uri/mathematics/2232.py) | 1     |
+| 2291 | [Divine Numbers]                | [C++](uri/mathematics/2291.cpp)   | 8     |
+| 2514 | [Lunar Alignment]               | [Python](uri/mathematics/2514.py) | 5     |
+| 2660 | [Cigarras Periódicas]           | [Python](uri/mathematics/2660.py) | 6     |
+| 2661 | [Despojados]                    | [Python](uri/mathematics/2661.py) | 6     |
+| 2674 | [Super Primes: Engage!]         | [Python](uri/mathematics/2674.py) | 7     |
 
 [Bank Line]: https://www.urionlinejudge.com.br/judge/en/problems/view/1537
+[Cigarras Periódicas]: https://www.urionlinejudge.com.br/judge/en/problems/view/2660
+[Collectable Cards]: https://www.urionlinejudge.com.br/judge/en/problems/view/1028
+[Despojados]: https://www.urionlinejudge.com.br/judge/en/problems/view/2661
 [Divine Numbers]: https://www.urionlinejudge.com.br/judge/en/problems/view/2291
+[Fast Prime Number]: https://www.urionlinejudge.com.br/judge/en/problems/view/1221
+[Lunar Alignment]: https://www.urionlinejudge.com.br/judge/en/problems/view/2514
 [Pascal's Triangle]: https://www.urionlinejudge.com.br/judge/en/problems/view/2232
+[Super Primes: Engage!]: https://www.urionlinejudge.com.br/judge/en/problems/view/2674
+[The Pythagorean Theorem]: https://www.urionlinejudge.com.br/judge/en/problems/view/1582
+[Travel to Mars in Primo Speed]: https://www.urionlinejudge.com.br/judge/en/problems/view/2180
 ### Paradigms
 
 | #    | Problem description | Solution                      | Level |
@@ -102,10 +118,10 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 
 ### SQL
 
-| #    | Problem description    | Solution                    | Level |
-| ---- | ---------------------- | --------------------------- | ----- |
-| 2602 | [Basic Select]         | [SQL](uri/sql/2602.sql) | 4     |
-| 2603 | [Customer Address]         | [SQL](uri/sql/2603.sql) | 1     |
+| #    | Problem description            | Solution                | Level |
+| ---- | ------------------------------ | ----------------------- | ----- |
+| 2602 | [Basic Select]                 | [SQL](uri/sql/2602.sql) | 4     |
+| 2603 | [Customer Address]             | [SQL](uri/sql/2603.sql) | 1     |
 | 2604 | [Under 10 or Greater Than 100] | [SQL](uri/sql/2604.sql) | 2     |
 
 
