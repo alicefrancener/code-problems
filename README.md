@@ -101,3 +101,14 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 [StopAll]: https://www.urionlinejudge.com.br/judge/en/problems/view/2959
 
 ### SQL
+
+| #    | Problem description    | Solution                    | Level |
+| ---- | ---------------------- | --------------------------- | ----- |
+| 2602 | [Basic Select]         | [SQL](uri/sql/2602.sql) | 4     |
+| 2603 | [Customer Address]         | [SQL](uri/sql/2603.sql) | 1     |
+| 2604 | [Under 10 or Greater Than 100] | [SQL](uri/sql/2604.sql) | 2     |
+
+
+[Basic Select]: https://www.urionlinejudge.com.br/judge/en/problems/view/2602
+[Customer Address]: https://www.urionlinejudge.com.br/judge/en/problems/view/2603
+[Under 10 or Greater Than 100]: https://www.urionlinejudge.com.br/judge/en/problems/view/2604
