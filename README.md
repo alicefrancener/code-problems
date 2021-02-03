@@ -4,6 +4,7 @@ Repositório com algumas soluções para *code problems*.
 
 - [Code Problems](#code-problems)
   - [LeetCode](#leetcode)
+    - [Problems](#problems)
   - [URI Online Judge](#uri-online-judge)
     - [Begginer](#begginer)
     - [Ad-Hoc](#ad-hoc)
@@ -17,6 +18,16 @@ Repositório com algumas soluções para *code problems*.
 ## LeetCode
 
 - [My LeetCode profile](https://leetcode.com/alicefrancener/)
+
+### Problems
+
+| #   | Title                                 | Solution                                          | Difficulty |
+| --- | ------------------------------------- | ------------------------------------------------- | ---------- |
+| 1   | [Two Sum]                             | [JS](0001-two-sum.js)                             | Easy       |
+| 26  | [Remove Duplicates from Sorted Array] | [JS](0026-remove-duplicates-from-sorted-array.js) | Easy       |
+
+[Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[Two Sum]: https://leetcode.com/problems/two-sum/
 
 ## URI Online Judge
 
