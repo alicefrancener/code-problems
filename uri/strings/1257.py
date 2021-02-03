@@ -1,3 +1,9 @@
+"""
+  author: Alice Francener
+  problem: 1257 - Array Hash
+  description: https://www.urionlinejudge.com.br/judge/en/problems/view/1257
+"""
+
 nTrials = int(input())
 hashs = []
 
@@ -14,4 +20,4 @@ for trial in range(nTrials):
     hashs.append(hash)
 
 for h in hashs:
-  print(h)
+    print(h)
