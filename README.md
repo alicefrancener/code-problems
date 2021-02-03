@@ -58,9 +58,12 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 
 | #    | Problem description | Solution                      | Level |
 | ---- | ------------------- | ----------------------------- | ----- |
+| 1024 | [Encryption]        | [C](uri/strings/1024.c)       | 5     |
 | 1257 | [Array Hash]        | [Python](uri/strings/1257.py) | 3     |
 
 [Array Hash]: https://www.urionlinejudge.com.br/judge/en/problems/view/1257
+[Encryption]: https://www.urionlinejudge.com.br/judge/en/problems/view/1024
+
 ### Data Structures and Libraries
 
 | #    | Problem description                   | Solution                                            | Level |
