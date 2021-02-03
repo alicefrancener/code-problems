@@ -4,7 +4,7 @@ Repositório com algumas soluções para *code problems*.
 
 - [Code Problems](#code-problems)
   - [LeetCode](#leetcode)
-- [URI Online Judge](#uri-online-judge)
+  - [URI Online Judge](#uri-online-judge)
     - [Begginer](#begginer)
     - [Ad-Hoc](#ad-hoc)
     - [Strings](#strings)
@@ -18,7 +18,7 @@ Repositório com algumas soluções para *code problems*.
 
 - [My LeetCode profile](https://leetcode.com/alicefrancener/)
 
-# URI Online Judge
+## URI Online Judge
 
 URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structures and Libraries, Mathematics, Paradigms, Graph, Computational Geometry, SQL
 
@@ -59,13 +59,35 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 
 | #    | Problem description                   | Solution                                            | Level |
 | ---- | ------------------------------------- | --------------------------------------------------- | ----- |
+| 1068 | [Parenthesis Balance I]               | [Python](uri/data-structures-and-libraries/1068.py) | 5     |
+| 1069 | [Diamonds and Sand]                   | [Python](uri/data-structures-and-libraries/1069.py) | 3     |
+| 1110 | [Throwing Cards Away]                 | [Python](uri/data-structures-and-libraries/1110.py) | 3     |
+| 1211 | [Economic Phonebook]                  | [Python](uri/data-structures-and-libraries/1211.py) | 5     |
+| 1244 | [Sort by Length]                      | [Python](uri/data-structures-and-libraries/1244.py) | 4     |
+| 1260 | [Hardwood Species]                    | [Python](uri/data-structures-and-libraries/1260.py) | 5     |
+| 1261 | [Hay Points]                          | [Python](uri/data-structures-and-libraries/1261.py) | 2     |
+| 1281 | [Going to the Market]                 | [Python](uri/data-structures-and-libraries/1281.py) | 3     |
+| 1340 | [I Can Guess the Data Structure!]     | [Python](uri/data-structures-and-libraries/1340.py) | 2     |
 | 1401 | [Generating Fast, Sorted Permutation] | [C++](uri/data-structures-and-libraries/1401.cpp)   | 4     |
+| 1430 | [Jingle Composing]                    | [Python](uri/data-structures-and-libraries/1430.py) | 2     |
+| 1451 | [Broken Keyboard]                     | [Python](uri/data-structures-and-libraries/1451.py) | 6     |
 | 1766 | [The Dark Elf]                        | [Python](uri/data-structures-and-libraries/1766.py) | 3     |
 | 2136 | [Friends of Habay]                    | [Python](uri/data-structures-and-libraries/2136.py) | 4     |
 
+[Broken Keyboard]: https://www.urionlinejudge.com.br/judge/en/problems/view/1451
+[Diamonds and Sand]: https://www.urionlinejudge.com.br/judge/en/problems/view/1069
+[Economic Phonebook]: https://www.urionlinejudge.com.br/judge/en/problems/view/1211
 [Friends of Habay]: https://www.urionlinejudge.com.br/judge/en/problems/view/2136
 [Generating Fast, Sorted Permutation]: https://www.urionlinejudge.com.br/judge/en/problems/view/1401
+[Going to the Market]: https://www.urionlinejudge.com.br/judge/en/problems/view/1281
+[Hardwood Species]: https://www.urionlinejudge.com.br/judge/en/problems/view/1260
+[Hay Points]: https://www.urionlinejudge.com.br/judge/en/problems/view/1261
+[I Can Guess the Data Structure!]: https://www.urionlinejudge.com.br/judge/en/problems/view/1340
+[Jingle Composing]: https://www.urionlinejudge.com.br/judge/en/problems/view/1430
+[Parenthesis Balance I]: https://www.urionlinejudge.com.br/judge/en/problems/view/1068
+[Sort by Length]: https://www.urionlinejudge.com.br/judge/en/problems/view/1244
 [The Dark Elf]: https://www.urionlinejudge.com.br/judge/en/problems/view/1766
+[Throwing Cards Away]: https://www.urionlinejudge.com.br/judge/en/problems/view/1110
 
 ### Mathematics
 
