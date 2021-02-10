@@ -36,32 +36,67 @@ URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structur
 - [My URI profile](https://www.urionlinejudge.com.br/judge/en/profile/164371)
 ### Begginer
 
-| #    | Problem description                                                                          | Solution                                                 | Level |
-| ---- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----- |
-| 1001 | [Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)             | [C](uri/beginner/1001.c), [Python](uri/beginner/1001.py) | 4     |
-| 1002 | [Area of a Circle](https://www.urionlinejudge.com.br/judge/en/problems/view/1002)            | [C](uri/beginner/1002.c)                                 | 4     |
-| 1003 | [Simple Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)                  | [C](uri/beginner/1003.c)                                 | 1     |
-| 1004 | [Simple Product](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)              | [C](uri/beginner/1004.c)                                 | 1     |
-| 1005 | [Average 1](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)                   | [C](uri/beginner/1005.c)                                 | 2     |
-| 1006 | [Average 2](https://www.urionlinejudge.com.br/judge/en/problems/view/1006)                   | [C](uri/beginner/1006.c)                                 | 1     |
-| 1007 | [Difference](https://www.urionlinejudge.com.br/judge/en/problems/view/1007)                  | [C](uri/beginner/1007.c)                                 | 1     |
-| 1008 | [Salary](https://www.urionlinejudge.com.br/judge/en/problems/view/1008)                      | [C](uri/beginner/1008.c)                                 | 2     |
-| 1009 | [Salary with Bonus](https://www.urionlinejudge.com.br/judge/en/problems/view/1009)           | [C](uri/beginner/1009.c)                                 | 2     |
-| 1010 | [Simple Calculate](https://www.urionlinejudge.com.br/judge/en/problems/view/1010)            | [C](uri/beginner/1010.c)                                 | 3     |
-| 1011 | [Sphere](https://www.urionlinejudge.com.br/judge/en/problems/view/1011)                      | [C](uri/beginner/1011.c)                                 | 2     |
-| 1012 | [Area](https://www.urionlinejudge.com.br/judge/en/problems/view/1012)                        | [C](uri/beginner/1012.c)                                 | 2     |
-| 1013 | [The Greatest](https://www.urionlinejudge.com.br/judge/en/problems/view/1013)                | [C](uri/beginner/1013.c)                                 | 3     |
-| 1014 | [Consumption](https://www.urionlinejudge.com.br/judge/en/problems/view/1014)                 | [C](uri/beginner/1014.c)                                 | 1     |
-| 1015 | [Distance Between Two Points](https://www.urionlinejudge.com.br/judge/en/problems/view/1015) | [C](uri/beginner/1015.c)                                 | 1     |
-| 1016 | [Distance](https://www.urionlinejudge.com.br/judge/en/problems/view/1016)                    | [Python](uri/beginner/1016.py)                           | 1     |
-| 1035 | [Selection Test 1](https://www.urionlinejudge.com.br/judge/en/problems/view/1035)            | [Python](uri/beginner/1035.py)                           | 2     |
-| 1036 | [Bhaskara's Formula](https://www.urionlinejudge.com.br/judge/en/problems/view/1036)          | [Python](uri/beginner/1036.py)                           | 3     |
-| 1037 | [Interval](https://www.urionlinejudge.com.br/judge/en/problems/view/1037)                    | [Python](uri/beginner/1037.py)                           | 3     |
-| 1038 | [Snack](https://www.urionlinejudge.com.br/judge/en/problems/view/1038)                       | [Python](uri/beginner/1038.py)                           | 1     |
-| 1173 | [Array fill I](https://www.urionlinejudge.com.br/judge/en/problems/view/1173)                | [Python](uri/beginner/1173.py)                           | 1     |
-| 1174 | [Array Selection I](https://www.urionlinejudge.com.br/judge/en/problems/view/1174)           | [Python](uri/beginner/1174.py)                           | 3     |
-| 1175 | [Array change I](https://www.urionlinejudge.com.br/judge/en/problems/view/1175)              | [Python](uri/beginner/1175.py)                           | 2     |
-| 1176 | [Fibonacci Array](https://www.urionlinejudge.com.br/judge/en/problems/view/1176)             | [Python](uri/beginner/1176.py)                           | 3     |
+| #    | Problem description           | Solution                                                 | Level |
+| ---- | ----------------------------- | -------------------------------------------------------- | ----- |
+| 1001 | [Extremely Basic]             | [C](uri/beginner/1001.c), [Python](uri/beginner/1001.py) | 4     |
+| 1002 | [Area of a Circle]            | [C](uri/beginner/1002.c)                                 | 4     |
+| 1003 | [Simple Sum]                  | [C](uri/beginner/1003.c)                                 | 1     |
+| 1004 | [Simple Product]              | [C](uri/beginner/1004.c)                                 | 1     |
+| 1005 | [Average 1]                   | [C](uri/beginner/1005.c)                                 | 2     |
+| 1006 | [Average 2]                   | [C](uri/beginner/1006.c)                                 | 1     |
+| 1007 | [Difference]                  | [C](uri/beginner/1007.c)                                 | 1     |
+| 1008 | [Salary]                      | [C](uri/beginner/1008.c)                                 | 2     |
+| 1009 | [Salary with Bonus]           | [C](uri/beginner/1009.c)                                 | 2     |
+| 1010 | [Simple Calculate]            | [C](uri/beginner/1010.c)                                 | 3     |
+| 1011 | [Sphere]                      | [C](uri/beginner/1011.c)                                 | 2     |
+| 1012 | [Area]                        | [C](uri/beginner/1012.c)                                 | 2     |
+| 1013 | [The Greatest]                | [C](uri/beginner/1013.c)                                 | 3     |
+| 1014 | [Consumption]                 | [C](uri/beginner/1014.c)                                 | 1     |
+| 1015 | [Distance Between Two Points] | [C](uri/beginner/1015.c)                                 | 1     |
+| 1016 | [Distance]                    | [Python](uri/beginner/1016.py)                           | 1     |
+| 1017 | [Fuel Spent]                  | [Python](uri/beginner/1017.py)                           | 1     |
+| 1018 | [Banknotes]                   | [Python](uri/beginner/1018.py)                           | 4     |
+| 1019 | [Time Conversion]             | [Python](uri/beginner/1019.py)                           | 1     |
+| 1020 | [Age in Days]                 | [Python](uri/beginner/1020.py)                           | 2     |
+| 1021 | [Banknotes and Coins]         | [Python](uri/beginner/1021.py)                           | 6     |
+| 1035 | [Selection Test 1]            | [Python](uri/beginner/1035.py)                           | 2     |
+| 1036 | [Bhaskara's Formula]          | [Python](uri/beginner/1036.py)                           | 3     |
+| 1037 | [Interval]                    | [Python](uri/beginner/1037.py)                           | 3     |
+| 1038 | [Snack]                       | [Python](uri/beginner/1038.py)                           | 1     |
+| 1173 | [Array fill I]                | [Python](uri/beginner/1173.py)                           | 1     |
+| 1174 | [Array Selection I]           | [Python](uri/beginner/1174.py)                           | 3     |
+| 1175 | [Array change I]              | [Python](uri/beginner/1175.py)                           | 2     |
+| 1176 | [Fibonacci Array]             | [Python](uri/beginner/1176.py)                           | 3     |
+
+[Extremely Basic]: https://www.urionlinejudge.com.br/judge/en/problems/view/1001
+[Area of a Circle]: https://www.urionlinejudge.com.br/judge/en/problems/view/1002
+[Simple Sum]: https://www.urionlinejudge.com.br/judge/en/problems/view/1003
+[Simple Product]: https://www.urionlinejudge.com.br/judge/en/problems/view/1004
+[Average 1]: https://www.urionlinejudge.com.br/judge/en/problems/view/1005
+[Average 2]: https://www.urionlinejudge.com.br/judge/en/problems/view/1006
+[Difference]: https://www.urionlinejudge.com.br/judge/en/problems/view/1007
+[Salary]: https://www.urionlinejudge.com.br/judge/en/problems/view/1008
+[Salary with Bonus]: https://www.urionlinejudge.com.br/judge/en/problems/view/1009
+[Simple Calculate]: https://www.urionlinejudge.com.br/judge/en/problems/view/1010
+[Sphere]: https://www.urionlinejudge.com.br/judge/en/problems/view/1011
+[Area]: https://www.urionlinejudge.com.br/judge/en/problems/view/1012
+[The Greatest]: https://www.urionlinejudge.com.br/judge/en/problems/view/1013
+[Consumption]: https://www.urionlinejudge.com.br/judge/en/problems/view/1014
+[Distance Between Two Points]: https://www.urionlinejudge.com.br/judge/en/problems/view/1015
+[Distance]: https://www.urionlinejudge.com.br/judge/en/problems/view/1016
+[Fuel Spent]: https://www.urionlinejudge.com.br/judge/en/problems/view/1017
+[Banknotes]: https://www.urionlinejudge.com.br/judge/en/problems/view/1018
+[Time Conversion]: https://www.urionlinejudge.com.br/judge/en/problems/view/1019
+[Age in Days]: https://www.urionlinejudge.com.br/judge/en/problems/view/1020
+[Banknotes and Coins]: https://www.urionlinejudge.com.br/judge/en/problems/view/1021
+[Selection Test 1]: https://www.urionlinejudge.com.br/judge/en/problems/view/1035
+[Bhaskara's Formula]: https://www.urionlinejudge.com.br/judge/en/problems/view/1036
+[Interval]: https://www.urionlinejudge.com.br/judge/en/problems/view/1037
+[Snack]: https://www.urionlinejudge.com.br/judge/en/problems/view/1038
+[Array fill I]: https://www.urionlinejudge.com.br/judge/en/problems/view/1173
+[Array Selection I]: https://www.urionlinejudge.com.br/judge/en/problems/view/1174
+[Array change I]: https://www.urionlinejudge.com.br/judge/en/problems/view/1175
+[Fibonacci Array]: https://www.urionlinejudge.com.br/judge/en/problems/view/1176
 
 ### Ad-Hoc
 
