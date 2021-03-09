@@ -15,25 +15,28 @@ Repositório com algumas soluções para *code problems*.
     - [Graph](#graph)
     - [SQL](#sql)
 
-## LeetCode
+## LeetCode: [profile](https://leetcode.com/alicefrancener/)
 
-- [My LeetCode profile](https://leetcode.com/alicefrancener/)
+### Solved Problems
 
-### Problems
-
-| #   | Title                                 | Solution                                          | Difficulty |
-| --- | ------------------------------------- | ------------------------------------------------- | ---------- |
-| 1   | [Two Sum]                             | [JS](0001-two-sum.js)                             | Easy       |
-| 26  | [Remove Duplicates from Sorted Array] | [JS](0026-remove-duplicates-from-sorted-array.js) | Easy       |
+| #    | Title                                 | Solution                                          | Difficulty |
+| ---- | ------------------------------------- | ------------------------------------------------- | ---------- |
+| 1    | [Two Sum]                             | [JS](leetcode/0001-two-sum.js)                             | Easy       |
+| 26   | [Remove Duplicates from Sorted Array] | [JS](leetcode/0026-remove-duplicates-from-sorted-array.js) | Easy       |
+| 485  | [Max Consecutive Ones] | [JS](leetcode/0485-max-consecutive-ones.js) | Easy       |
+| 977  | [Squares of a Sorted Array] | [JS](leetcode/0977-squares-of-a-sorted-array.js) | Easy       |
+| 1295 | [Find Numbers with Even Number of Digits] | [JS](leetcode/1295-find-numbers-with-even-number-of-digits.js) | Easy       |
 
 [Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [Two Sum]: https://leetcode.com/problems/two-sum/
+[Max Consecutive Ones]: https://leetcode.com/problems/max-consecutive-ones/
+[Squares of a Sorted Array]: https://leetcode.com/problems/squares-of-a-sorted-array/
+[Find Numbers with Even Number of Digits]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
-## URI Online Judge
+## URI Online Judge: [profile](https://www.urionlinejudge.com.br/judge/en/profile/164371)
 
 URi divide os problemas nas categorias: Begginer, Ad-Hoc, Strings, Data Structures and Libraries, Mathematics, Paradigms, Graph, Computational Geometry, SQL
 
-- [My URI profile](https://www.urionlinejudge.com.br/judge/en/profile/164371)
 ### Begginer
 
 | #    | Problem description           | Solution                                                 | Level |
